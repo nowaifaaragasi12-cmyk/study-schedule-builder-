@@ -18,3 +18,12 @@ Task: Practice HTML, CSS, and basic coding.
 10:00 AM - 11:00 AM
 Subject: Computer Networking
 Task: Study network devices and their functions.
+
+11:00 AM - 12:00 AM
+Subject: Multimedia
+Task: Study network devices and their functions.
+
+
+
+
+
